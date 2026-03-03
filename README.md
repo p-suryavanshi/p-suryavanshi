@@ -26,13 +26,18 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p-suryavanshi&theme=tokyonight" width="49%" />
 </p>
 
-### 👾 Contribution Streak
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=p-suryavanshi&theme=dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-suryavanshi&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([TERA_LINKEDIN_URL](https://www.linkedin.com/in/pavansuryavanshi/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavans6350@gmail.com@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/pavansuryavanshi/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:pavans6350@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
