@@ -1,6 +1,6 @@
 # Pavan Suryavanshi
 
-*BCA Candidate (2024 - 2027)* Focused on *Java Ecosystem* and *Backend Engineering*.
+*BCA Student (2024 - 2027)* Focused on *Java Ecosystem* and *Backend Engineering*.
 
 ---
 
