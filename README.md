@@ -20,14 +20,15 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Activity
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=p-suryavanshi&show_icons=true&theme=radical" alt="p-suryavanshi GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=p-suryavanshi&show_icons=true&theme=dark&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-suryavanshi&layout=compact&theme=dark&hide_border=true" width="300" />
 </p>
 
-### 🛠️ Top Languages
+### 👾 Contribution Streak
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-suryavanshi&layout=compact&theme=radical" alt="p-suryavanshi Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=p-suryavanshi&theme=dark&hide_border=true" />
 </p>
 
 ---
