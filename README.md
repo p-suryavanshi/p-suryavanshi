@@ -21,9 +21,9 @@
 ---
 
 ### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p-suryavanshi&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p-suryavanshi&theme=tokyonight" width="48%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p-suryavanshi&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p-suryavanshi&theme=tokyonight" width="49%" />
 </p>
 
 ### 👾 Contribution Streak
