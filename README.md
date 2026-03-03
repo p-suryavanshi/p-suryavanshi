@@ -22,8 +22,8 @@
 
 ### 📊 GitHub Activity
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=p-suryavanshi&show_icons=true&theme=dark&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-suryavanshi&layout=compact&theme=dark&hide_border=true" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=p-suryavanshi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-suryavanshi&layout=compact&theme=dark&langs_count=6" width="300" alt="Top Languages" />
 </p>
 
 ### 👾 Contribution Streak
